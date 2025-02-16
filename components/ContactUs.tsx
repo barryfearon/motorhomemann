@@ -12,30 +12,36 @@ export default function ContactUs() {
               href="https://www.facebook.com/profile.php?id=61565650358616"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-blue-600"
+              className="text-blue-800 font-bold"
             >
               Motorhome Mann
             </a>
           </li>
           <li className="font-semibold pb-2">
             Phone:{" "}
-            <a href="tel:+447624234100" className="text-blue-600">
+            <a href="tel:+447624234100" className="text-blue-800 font-bold">
               07624 234100
             </a>{" "}
             /{" "}
-            <a href="tel:+447624242020" className="text-blue-600">
+            <a href="tel:+447624242020" className="text-blue-800 font-bold">
               07624 242020
             </a>
           </li>
           <li className="font-semibold pb-2">
             Email:{" "}
-            <a href="mailto:mohomann@outlook.com" className="text-blue-600">
+            <a
+              href="mailto:mohomann@outlook.com"
+              className="text-blue-800 font-bold"
+            >
               mohomann@outlook.com
             </a>
           </li>
           <li className="font-semibold pb-2">
             Website:{" "}
-            <a href="http://www.motorhomemann.co.uk" className="text-blue-600">
+            <a
+              href="http://www.motorhomemann.co.uk"
+              className="text-blue-800 font-bold"
+            >
               www.motorhomemann.co.uk
             </a>
           </li>
