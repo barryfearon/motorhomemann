@@ -17,7 +17,7 @@ import Terms from "@/components/Terms";
 export const metadata: Metadata = {
   title: "Motorhome Mann",
   description:
-    "Motorhome and campervan repairs on the Isle of Man. Dedicated to delivering high-quality, affordable service for motorhome and campervan habitation checks and repairs.",
+    "Motorhome and campervan repairs on the Isle of Man. Dedicated to delivering high-quality, affordable service for Isle of Man motorhome and campervan habitation checks and repairs.",
 };
 
 export default function Home() {
