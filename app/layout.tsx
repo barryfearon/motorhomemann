@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Aleo } from "next/font/google";
-import "./globals.css";
+import "./globals.scss";
 
 const aleo = Aleo({
   variable: "--font-aleo",
