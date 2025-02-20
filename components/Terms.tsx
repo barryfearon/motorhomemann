@@ -41,6 +41,11 @@ export default function Terms() {
             Full payment is required at the time of ordering for special parts,
             which are non-refundable.
           </span>
+          <br />
+          <span className="text-[#1e1e1e] text-base font-normal font-['Aleo'] leading-normal">
+            Any orders supplied by Motorhome Mann remain the property of
+            Motorhome Mann until paid for in full.
+          </span>
         </li>
       </ul>
     </div>

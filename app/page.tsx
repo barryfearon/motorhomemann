@@ -40,7 +40,7 @@ export default function Home() {
           <ContactUs />
           <WorkingHours />
           <Terms />
-          <div className="fixed -bottom-1 mt-4 z-0">
+          <div className="fixed -bottom-1 mt-4 z-50">
             <Image
               className="object-cover"
               priority
